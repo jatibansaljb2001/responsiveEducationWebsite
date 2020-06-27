@@ -1,0 +1,1 @@
+This is the template or design for the online education website.
